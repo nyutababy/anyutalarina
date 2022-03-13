@@ -1,0 +1,114 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat'sans-serif;
+    color: black
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+ul,
+li {
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 1240px;
+    margin: 0 auto;
+    /*позиционирование по центру */
+}
+
+.header {
+    padding-top: 50px;
+}
+
+.header a {
+    color: #494841;
+    font-family: Montserrat;
+    font-weight: SemiBold;
+}
+
+.logo {
+    margin-right: 125px;
+
+}
+
+.menu {
+    display: flex;
+}
+
+.menu li a {
+    text-decoration: none;
+    font-family: Montserrat;
+    font-size: 21px;
+    line-height: 40px;
+    letter-spacing: 0.2em;
+}
+
+.menu li a:hover {
+    border-bottom: 2px solid #494841;
+}
+
+
+.menu li {
+    margin-right: 27px;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+
+}
+
+
+
+body {
+    background-image: url(img/foninter.jpg);
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+.interesnoe {
+    margin-left: 0px;
+    margin-top: 50px;
+}
+.losh59 {
+    margin-top: 40px;
+    width: 760px;
+    height: 520px;
+    margin-left: 250px;
+}
+.losh60 {
+    margin-top: 40px;
+    width: 760px;
+    height: 520px;
+    margin-left: 250px;
+}
+.losh61 {
+    margin-top: 40px;
+    width: 760px;
+    height: 520px;
+    margin-left: 250px;
+}
+.knop {
+    margin-top: 40px;
+    margin-bottom: 55px;
+}
+.gallery39 :hover{
+    transition: all 0.3s ease;
+    box-shadow: 0 520px 760px rgba(255, 255, 255, 0);
+	transform: scale(1.1);
+}
+.gallery40 :hover{
+    transition: all 0.3s ease;
+    box-shadow: 0 760px 520px rgba(255, 255, 255, 0);
+	transform: scale(1.1);
+}
+.gallery41 :hover{
+    transition: all 0.3s ease;
+    box-shadow: 0 760px 520px rgba(255, 255, 255, 0);
+	transform: scale(1.1);
+}

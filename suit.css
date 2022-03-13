@@ -1,0 +1,182 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat'sans-serif;
+    color: black
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+ul,
+li {
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 1240px;
+    margin: 0 auto;
+    /*позиционирование по центру */
+}
+
+.header {
+    padding-top: 50px;
+}
+
+.header a {
+    color: #494841;
+    font-family: Montserrat;
+    font-weight: SemiBold;
+}
+
+.logo {
+    margin-right: 125px;
+
+}
+
+.menu {
+    display: flex;
+}
+
+.menu li a {
+    text-decoration: none;
+    font-family: Montserrat;
+    font-size: 21px;
+    line-height: 40px;
+    letter-spacing: 0.2em;
+}
+
+.menu li a:hover {
+    border-bottom: 2px solid #494841;
+}
+
+
+.menu li {
+    margin-right: 27px;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+
+}
+
+
+
+body {
+    background-image: url(img/fonmasti.jpg);
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+
+.masti {
+    margin-left: 0px;
+    margin-top: 50px;
+}
+
+.gallery21 {
+    margin-left: 75px;
+    margin-top: 50px;
+}
+
+.zagsuit {
+    width: 520px;
+    height: 520px;
+    margin-left: 580px;
+    margin-top: -520px;
+    color: #494841;
+    font-family: Montserrat;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 37px;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+}
+
+.zagsuit1 {
+    margin-top: 40px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    letter-spacing: 0.09em;
+    color: #494841;
+}
+
+.zagsuit2 {
+    margin-top: 40px;
+    margin-bottom: 55px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    letter-spacing: 0.09em;
+    color: #494841;
+}
+
+.losh34 {
+    margin-left: 75px;
+    margin-right: 55px;
+}
+
+.losh36 {
+    margin-left: 75px;
+    margin-right: 55px;
+}
+
+.vorm {
+    margin-left: 0px;
+    margin-top: 20px;
+}
+
+.rujm {
+    margin-left: 0px;
+    margin-top: 50px;
+}
+
+.serm {
+    margin-left: 0px;
+    margin-top: 50px;
+}
+
+.losh38 {
+    margin-left: 75px;
+    margin-right: 55px;
+}
+
+.gnedm {
+    margin-left: 0px;
+    margin-top: 50px;
+}
+
+.losh41 {
+    margin-left: 75px;
+    margin-right: 55px;
+}
+
+.knopka12{
+    margin-left: 1300px;
+    margin-top: -150px;
+    }
+
+.knop {
+    margin-top: 130px;
+    display: flex;
+    margin-bottom: 55px;
+}
+
+.porod {
+    margin-right: 830px;
+}

@@ -1,0 +1,228 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat'sans-serif;
+    color: black
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+ul,
+li {
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 1240px;
+    margin: 0 auto;
+    /*позиционирование по центру */
+}
+
+.header {
+    padding-top: 50px;
+}
+
+.header a {
+    color: #494841;
+    font-family: Montserrat;
+    font-weight: SemiBold;
+}
+
+.logo {
+    margin-right: 125px;
+
+}
+
+.menu {
+    display: flex;
+}
+
+.menu li a {
+    text-decoration: none;
+    font-family: Montserrat;
+    font-size: 21px;
+    line-height: 40px;
+    letter-spacing: 0.2em;
+}
+
+.menu li a:hover {
+    border-bottom: 2px solid #494841;
+}
+
+
+.menu li {
+    margin-right: 27px;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+
+}
+
+
+
+body {
+    background-image: url(img/fonuhod.jpg);
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+
+.uhod {
+    margin-left: 0px;
+    margin-top: 50px;
+}
+.gallery26 {
+    margin-left: 653px;
+    margin-top: 50px;
+}
+
+.zaguh {
+    width: 520px;
+    height: 520px;
+    margin-left: -580px;
+    margin-top: -527px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 37px;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    color: #494841;
+}
+
+.soderj{
+    margin-top: 20px;
+}
+.zaguh1 {
+    margin-top: 40px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    letter-spacing: 0.09em;
+    color: #494841;
+}
+.zaguh2 {
+    margin-top: 30px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    letter-spacing: 0.09em;
+    color: #494841;
+}
+.losh34 {
+    margin-top: 40px;
+    width: 760px;
+    height: 520px;
+    margin-left: 250px;
+}
+.obusl{
+    margin-top: 20px;
+}
+.zaguh3 {
+    margin-top: 55px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    letter-spacing: 0.09em;
+    color: #494841;
+}
+.losh44 {
+    margin-top: 40px;
+    margin-left: 75px;
+    margin-right: 55px;
+}
+.chisl{
+    margin-top: 20px;
+}
+.zaguh4 {
+    margin-top: 10px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    letter-spacing: 0.09em;
+    color: #494841;
+}
+.losh46 {
+    margin-top: 40px;
+    margin-left: 75px;
+    margin-right: 55px;
+}
+.kupl{
+    margin-top: 20px;
+}
+.losh48 {
+    margin-top: 40px;
+    margin-left: 75px;
+    margin-right: 55px;
+}
+.uhodgr{
+    margin-top: 20px;
+}
+.losh50 {
+    margin-top: 40px;
+    margin-left: 75px;
+    margin-right: 55px;
+}
+.uhodpodk{
+    margin-top: 20px;
+}
+.losh52 {
+    margin-top: 40px;
+    margin-left: 75px;
+    margin-right: 55px;
+}
+.zaguh5 {
+    margin-top: 55px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    letter-spacing: 0.09em;
+    color: #494841;
+}
+
+.knopka12{
+    margin-left: 1300px;
+    margin-top: -150px;
+    }
+
+.knop {
+    display: flex;
+    margin-bottom: 55px;
+    margin-top: 130px;
+}
+
+.masti {
+    margin-right: 830px;
+}

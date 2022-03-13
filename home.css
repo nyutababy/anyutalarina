@@ -1,0 +1,107 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat' sans-serif;
+    color: black
+}
+html{
+    scroll-behavior: smooth;
+ }
+ul, li{
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    width: 1240px;
+    margin: 0 auto; /*позиционирование по центру */
+}
+
+.header{
+padding-top: 50px;
+}
+
+.header a{
+    color: #494841;
+    font-family: Montserrat;
+    font-weight: SemiBold;
+}
+
+.logo{
+    margin-right: 125px;
+
+}
+
+.menu{
+    display: flex;
+}
+
+.menu li a{
+    text-decoration: none;
+    font-family: Montserrat;
+    font-size: 21px;
+    line-height: 40px;
+    letter-spacing: 0.2em;
+}
+
+.menu li a:hover {
+    border-bottom: 2px solid #494841;
+}
+
+.menu li{
+    margin-right: 25px;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    
+}
+
+.banner{
+    margin-left: 80px;
+
+}
+
+.home1{
+margin-top: 15px;
+margin-right: 1px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 50px;
+line-height: 40px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #494841;
+}
+
+.home2{
+width: 492px;
+height: 236px;
+left: 340px;
+margin-top: -5px;
+font-family: Montserrat;
+font-weight: SemiBold;
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 35px;
+display: flex;
+align-items: center;
+color: #494841;
+}
+
+.mechta{
+    margin-top: -10px;
+    
+}
+
+body{
+    background-image: url(img/fonhome.jpg);
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+

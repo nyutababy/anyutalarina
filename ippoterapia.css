@@ -1,0 +1,223 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat'sans-serif;
+    color: black
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+ul,
+li {
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 1240px;
+    margin: 0 auto;
+    /*позиционирование по центру */
+}
+
+.header {
+    padding-top: 50px;
+}
+
+.header a {
+    color: #494841;
+    font-family: Montserrat;
+    font-weight: SemiBold;
+}
+
+.logo {
+    margin-right: 125px;
+
+}
+
+.menu {
+    display: flex;
+}
+
+.menu li a {
+    text-decoration: none;
+    font-family: Montserrat;
+    font-size: 21px;
+    line-height: 40px;
+    letter-spacing: 0.2em;
+}
+
+.menu li a:hover {
+    border-bottom: 2px solid #494841;
+}
+
+
+.menu li {
+    margin-right: 27px;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+
+}
+
+
+
+body {
+    background-image: url(img/fonipp.jpg);
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+.ippoter {
+    margin-left: 0px;
+    margin-top: 50px;
+}
+.gallery49 {
+    margin-left: 75px;
+    margin-top: 50px;
+}
+
+.zagipp {
+    width: 520px;
+    height: 520px;
+    margin-left: 580px;
+    margin-top: -525px;
+    color: #494841;
+    font-family: Montserrat;
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 37px;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+}
+.zagipp1 {
+    margin-top: 55px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    letter-spacing: 0.09em;
+    color: #494841;
+}
+.zagipp2 {
+    margin-top: 30px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    letter-spacing: 0.09em;
+    color: #494841;
+}
+.losh73 {
+    margin-top: 40px;
+    margin-left: 75px;
+    margin-right: 55px;
+}
+.losh75 {
+    margin-top: 40px;
+    width: 760px;
+    height: 520px;
+    margin-left: 250px;
+}
+.losh76 {
+    margin-top: 40px;
+    margin-left: 75px;
+    margin-right: 55px;
+}
+.losh78 {
+    margin-top: 35px;
+    width: 760px;
+    height: 520px;
+    margin-left: 250px;
+}
+.zagipp3 {
+    margin-left: 15px;
+    width: 1140px;
+    height: 165px;
+    margin-top: 20px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    letter-spacing: 0.09em;
+    color: #494841;
+}
+.cif1{
+    margin-top: 50px;
+width: 85px;
+height: 100px;
+}
+.anna{
+    display: flex;
+}
+.losh79 {
+    margin-top: 30px;
+    width: 760px;
+    height: 520px;
+    margin-left: 250px;
+    margin-bottom: 60px;
+}
+.cif2{
+    margin-top: 50px;
+width: 85px;
+height: 100px;
+}
+.losh80 {
+    margin-top: 60px;
+    width: 760px;
+    height: 520px;
+    margin-left: 250px;
+    margin-bottom: 40px;
+}
+.cif3{
+    margin-top: 50px;
+width: 85px;
+height: 100px;
+}
+.losh81 {
+    margin-top: 40px;
+    margin-left: 75px;
+    margin-right: 55px;
+}
+.cif4{
+    margin-top: 50px;
+width: 85px;
+height: 100px;
+}
+.losh83 {
+    width: 760px;
+    height: 520px;
+    margin-left: 250px;
+    margin-bottom: 40px;
+}
+
+.knopka12{
+    margin-left: 1300px;
+    margin-top: -150px;
+    }
+
+.knop {
+    margin-top: 120px;
+    display: flex;
+    margin-bottom: 55px;
+}
+
+.allur {
+    margin-right: 698px;
+}

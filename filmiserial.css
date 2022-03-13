@@ -1,0 +1,297 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat'sans-serif;
+    color: black
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+ul,
+li {
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 1240px;
+    margin: 0 auto;
+    /*позиционирование по центру */
+}
+
+.header {
+    padding-top: 50px;
+}
+
+.header a {
+    color: #494841;
+    font-family: Montserrat;
+    font-weight: SemiBold;
+}
+
+
+
+.menu {
+    display: flex;
+}
+
+.menu li a {
+    text-decoration: none;
+    font-family: Montserrat;
+    font-size: 21px;
+    line-height: 40px;
+    letter-spacing: 0.2em;
+}
+
+.menu li a:hover {
+    border-bottom: 2px solid #494841;
+}
+
+
+.menu li {
+    margin-right: 27px;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+
+}
+
+.vhod {
+    margin-left: 102px;
+}
+
+body {
+    background-image: url(img/fonfilm.jpg);
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+
+.fimiser {
+    margin-left: 0px;
+    margin-top: 50px;
+}
+
+.boevkon {
+    margin-top: 40px;
+}
+
+.gallery58 {
+    margin-left: 653px;
+    margin-top: 50px;
+}
+
+.zagfs {
+    width: 520px;
+    height: 520px;
+    margin-left: -580px;
+    margin-top: -520px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 37px;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    color: #494841;
+}
+
+.losh85 {
+    margin-top: 35px;
+    margin-left: 75px;
+    margin-right: 55px;
+}
+
+.zagfs1 {
+    margin-top: 40px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    letter-spacing: 0.09em;
+    color: #494841;
+}
+
+.naj {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 34px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.09em;
+    color: #494841;
+}
+
+.naj a {
+    text-decoration: none;
+    color: #494841;
+}
+
+.naj :hover {
+    border-bottom: 2px solid #494841;
+}
+
+.naj1 {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 34px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.09em;
+    color: #494841;
+}
+
+.naj1 a {
+    text-decoration: none;
+    color: #494841;
+}
+
+.naj1 :hover {
+    border-bottom: 2px solid #494841;
+}
+
+.losh87 {
+    margin-top: 35px;
+    margin-left: 75px;
+    margin-right: 55px;
+}
+.naj2 {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 34px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.09em;
+    color: #494841;
+}
+
+.naj2 a {
+    text-decoration: none;
+    color: #494841;
+}
+
+.naj2 :hover {
+    border-bottom: 2px solid #494841;
+}
+.losh89 {
+    margin-top: 35px;
+    margin-left: 75px;
+    margin-right: 55px;
+}
+.naj3 {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 34px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.09em;
+    color: #494841;
+}
+
+.naj3 a {
+    text-decoration: none;
+    color: #494841;
+}
+
+.naj3 :hover {
+    border-bottom: 2px solid #494841;
+}
+.losh91 {
+    margin-top: 35px;
+    margin-left: 75px;
+    margin-right: 55px;
+}
+.naj4 {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 34px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.09em;
+    color: #494841;
+}
+
+.naj4 a {
+    text-decoration: none;
+    color: #494841;
+}
+
+.naj4 :hover {
+    border-bottom: 2px solid #494841;
+}
+.losh93 {
+    margin-top: 35px;
+    margin-left: 75px;
+    margin-right: 55px;
+}
+.naj5 {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 34px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.09em;
+    color: #494841;
+}
+
+.naj5 a {
+    text-decoration: none;
+    color: #494841;
+}
+
+.naj5 :hover {
+    border-bottom: 2px solid #494841;
+}
+.losh95 {
+    margin-top: 35px;
+    margin-left: 75px;
+    margin-right: 55px;
+}
+
+
+.knopka12{
+margin-left: 1300px;
+margin-top: -150px;
+}
+.knop {
+    margin-top: 100px;
+    display: flex;
+    margin-bottom: 55px;
+}
+
+.ippot {
+    margin-right: 698px;
+}

@@ -1,0 +1,191 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat'sans-serif;
+    color: black
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+ul,
+li {
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 1240px;
+    margin: 0 auto;
+    /*позиционирование по центру */
+}
+
+.header {
+    padding-top: 50px;
+}
+
+.header a {
+    color: #494841;
+    font-family: Montserrat;
+    font-weight: SemiBold;
+}
+
+.logo {
+    margin-right: 125px;
+
+}
+
+.menu {
+    display: flex;
+}
+
+.menu li a {
+    text-decoration: none;
+    font-family: Montserrat;
+    font-size: 21px;
+    line-height: 40px;
+    letter-spacing: 0.2em;
+}
+
+.menu li a:hover {
+    border-bottom: 2px solid #494841;
+}
+
+
+.menu li {
+    margin-right: 27px;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+
+}
+
+
+
+body {
+    background-image: url(img/fonall.jpg);
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+
+.chtoallur {
+    margin-left: 0px;
+    margin-top: 50px;
+}
+.gallery42 {
+    margin-left: 653px;
+    margin-top: 50px;
+}
+
+.zagall {
+    width: 520px;
+    height: 520px;
+    margin-left: -580px;
+    margin-top: -520px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 37px;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    color: #494841;
+}
+
+.zagall1 {
+    margin-top: 40px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    letter-spacing: 0.09em;
+    color: #494841;
+}
+.estall {
+    margin-left: 0px;
+    margin-top: 45px;
+}
+.shag {
+    margin-left: 0px;
+    margin-top: 20px;
+}
+.losh63 {
+    margin-top: 35px;
+    margin-left: 75px;
+    margin-right: 55px;
+}
+.rysss {
+    margin-left: 0px;
+    margin-top: 55px;
+}
+.losh65 {
+    margin-top: 30px;
+    width: 760px;
+    height: 520px;
+    margin-left: 250px;
+}
+.galop {
+    margin-left: 0px;
+    margin-top: 55px;
+}
+.losh67 {
+    margin-top: 30px;
+    margin-left: 75px;
+    margin-right: 55px;
+}
+.inohod {
+    margin-left: 0px;
+    margin-top: 20px;
+}
+.losh68 {
+    margin-top: 30px;
+    width: 760px;
+    height: 520px;
+    margin-left: 250px;
+}
+.issall {
+    margin-left: 0px;
+    margin-top: 50px;
+}
+.passaj {
+    margin-left: 0px;
+    margin-top: 20px;
+}
+.losh69 {
+    margin-top: 30px;
+    margin-left: 75px;
+    margin-right: 55px;
+}
+.ispansh {
+    margin-left: 0px;
+    margin-top: 55px;
+}
+.losh71 {
+    margin-top: 30px;
+    width: 760px;
+    height: 520px;
+    margin-left: 250px;
+}
+.knopka12{
+    margin-left: 1300px;
+    margin-top: -150px;
+    }
+
+.knop {
+    margin-top: 155px;
+    display: flex;
+    margin-bottom: 55px;
+}
+
+.interes {
+    margin-right: 698px;
+}
